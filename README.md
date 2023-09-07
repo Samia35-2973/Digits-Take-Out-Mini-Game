@@ -13,7 +13,6 @@
 - [About the Game](#about-the-game)
 - [How to Play](#how-to-play)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Try It Out](#try-it-out)
 - [Contributing](#contributing)
 - [License](#license)
